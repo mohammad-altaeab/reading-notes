@@ -34,7 +34,7 @@ Every single change applied to any file or directory is tracked by Git. And, as 
 ## some of anothe command in ***GIT**:
 
 command|what do 
-------|-------
+-------|-------
 LS    | list the files and folders 
  mkdir|create new folder
     cd|change Dir having a where i am
