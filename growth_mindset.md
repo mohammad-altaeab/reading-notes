@@ -16,5 +16,5 @@
 
 ### a simple growth mindset:
 
-![a simple growth mindset]https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1) 
+![a simple growth mindset](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)   
 :dizzy_face: [to know more about](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) :dizzy_face:
