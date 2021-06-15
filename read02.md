@@ -32,15 +32,17 @@ Every single change applied to any file or directory is tracked by Git. And, as 
 ## 2. clone is a way to connect between GIT and GitHub to share or upload your work or download it in your local machine . 
 
 ## some of anothe command in ***GIT**:
-|command|what do |
-|:------|-------:|
-|LS|list the files and folders |
-|mkdir|create new folder|
-|cd|change Dir having a where i am|
-|touch|make a new file|
-|pwd|print current dirit's show's me where i'm |
-|cd ..|going back one folder |
-|cd ~| to home dir|
-|git branch -d test|for Deleting Branches|
+
+command|what do 
+------|-------
+LS    | list the files and folders 
+ mkdir|create new folder
+    cd|change Dir having a where i am
+ touch|make a new file
+   pwd|print current dirit's show's me where i'm
+ cd ..|going back one folder 
+  cd ~| to home dir
+git branch -d test|for Deleting Branches
+
 ![git image](https://hackernoon.com/hn-images/1*QoR3rxWIbnf5wmF_IuAHqQ.png)
 [for more information](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2_1)
