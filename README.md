@@ -3,6 +3,6 @@
 ## Table of content
 |number |subject|
 |:------|------:|
-|1|[growth mindset](https://mohammad-altaeab.github.io/reading-notes/growth$mindset)|
+|1|[growth mindset](https://mohammad-altaeab.github.io/reading-notes/growth_mindset)|
 |2|[read01](https://mohammad-altaeab.github.io/reading-notes/read01)|
 |3|[read02](https://mohammad-altaeab.github.io/reading-notes/read02)|
