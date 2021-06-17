@@ -1,50 +1,27 @@
-# Expressions and operators
-**JavaScript has the following types of operators. This section describes the operators and contains information about operator precedence.**
-
-+ Assignment operators
-+ Comparison operators
-+ Arithmetic operators
-+ Bitwise operators
-+ Logical operators
-+ String operators
-+ Conditional (ternary) operator
-+ Comma operator
-+ Unary operators
-+ Relational operators
-
-Name |	Shorthand operator |Meaning
------|---------------------|--------
-Assignment |	x = y	| x = y
-Addition assignment |	x += y |	x = x + y
-Subtraction assignment|	x -= y |	x = x - y
-Multiplication assignment|	x *= y | 	x = x * y
-Division assignment|	x /= y|	x = x / y
-Remainder assignment|	x %= y|	x = x % y
-Exponentiation assignment|	x **= y|	x = x ** y
-Left shift assignment|	x <<= y|	x = x << y
-Right shift assignment|	x >>= y|	x = x >> y
-Unsigned right shift assignment|	x >>>= y|	x = x >>> y
-Bitwise AND assignment|	x &= y|	x = x & y
-Bitwise XOR assignment|	x ^= y|	x = x ^ y
-Logical AND assignment|	x &&= y|	x && (x = y)
-Logical nullish assignment|	x ??= y|	x ?? (x = y)
-# Loops and iteration
-### Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript.You can think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another. For example, the idea "Go five steps to the east" could be expressed this way as a loop:
-## for statement
-A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.  
-
-**for ([initialExpression]; [conditionExpression]; [incrementExpression])  statement **
-## do...while statement
-The do...while statement repeats until a specified condition evaluates to false.  
-**do  
-  statement  
-while (condition);**
-## while statement
-A while statement executes its statements as long as a specified condition evaluates to true. A while  
-**while (condition)  
-statement**  
+# css 
+*CSS (Cascading Style Sheets) allows you to create great-looking web pages
+In the Introduction to HTML module we covered what HTML is, and how it is used to mark up documents. These documents will be readable in a web browser. Headings will look larger than regular text, paragraphs break onto a new line and have space between them. Links are colored and underlined to distinguish them from the rest of the text. What you are seeing is the browser's default styles — very basic styles that the browser applies to HTML to make sure it will be basically readable even if no explicit styling is specified by the author of the page.*
 
 
+![](https://cdn.pixabay.com/photo/2017/03/30/17/42/css-2189148_640.png)
+## CSS syntax
+CSS is a rule-based language — you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page. For example "I want the main heading on my page to be shown as large red text."  
+The rule opens with a selector . This selects the HTML element that we are going to style. In this case we are styling level one headings (<h1>).
+![CSS syntax](https://www.w3schools.com/css/img_selector.gif)
 
-![loop](https://image.shutterstock.com/image-vector/loop-logo-vector-ribbon-lettering-260nw-1425991553.jpg)
+We then have a set of curly braces { }. Inside those will be one or more declarations, which take the form of property and value pairs. Each pair specifies a property of the element(s) we are selecting, then a value that we'd like to give the property.
+![](https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/old/monthly_2018_01/css-selectors-1f0064.png.d03086c298b6ce0f85c394976d9ccacb.png)
+## CSS Modules
+As there are so many things that you could style using CSS, the language is broken down into modules. You'll see reference to these modules as you explore MDN and many of the documentation pages are organized around a particular module  
+![](https://www.javascriptstuff.com/static/css-modules-diagram-example-edcd723b0e6ff2f1a6f7cbd1050b1c33-4f823.png)
+## How To Add CSS
++ External CSS  
+With an external style sheet, you can change the look of an entire website by changing just one file!
+Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
++ Internal CSS 
 
+ An internal style sheet may be used if one single HTML page has a unique style.The internal style is defined inside the (<style>) element, inside the head section.    
+
+
++ Inline CSS   
+ An inline style may be used to apply a unique style for a single element.To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
