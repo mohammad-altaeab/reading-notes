@@ -14,15 +14,15 @@
 
 
 ## Code 201 Reading Notes table
-|number|subject              |
-| :--- |                ---: |
-|1     |[class-01](class-01) |
-|2     |[class-02]()         |
-|3     |[class-03]()         |  
-|4     |[class-04]()         |
-|5     |[class-05]()         |
-|6     |[class-06]()         | 
-|7     |[class-07]()         |
+|number|name  |subject              |
+| :--- |:----:|               ---:  |
+|1     |read01|[class-01](class-01) |
+|2     |read02|[class-02]()         |
+|3     |read03|[class-03]()         |  
+|4     |read04|[class-04]()         |
+|5     |read05|[class-05]()         |
+|6     |read06|[class-06]()         | 
+|7     |read07|[class-07]()         |
 |8     |[class-08]()         | 
 |9     |[class-09]()         |
 |10    |[class-10]()         |
@@ -31,10 +31,3 @@
 |    13|[class-13]()         |
 |    14|[class-14]()         |
 |    15|[class-15]()         |
-   
-
-
-| Syntax      | Description | Test Text     |
-
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
