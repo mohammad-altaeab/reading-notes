@@ -2,7 +2,7 @@
 ### hey there my name is mohammad altaeab I'm 23 yaars old fresh graduate mechanical engineer from jordan university for science and technology
 ## Table of content
 |number|subject                         |
-|------|--------------------------------|
+| :--- |                           ---: |
 |1     |[growth mindset](growth_mindset)|
 |     2|[read01](read01)                |
 |3     |[read02](read02)                |
@@ -15,7 +15,7 @@
 
 ## Code 201 Reading Notes table
 |number|subject              |
-|------|---------------------|
+| :--- |                ---: |
 |1     |[class-01](class-01) |
 |2     |[class-02]()         |
 |3     |[class-03]()         |  
@@ -34,7 +34,7 @@
    
 
 
-   | Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
+| Syntax      | Description | Test Text     |
+
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
