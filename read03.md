@@ -1,4 +1,3 @@
-1. # html summarized
 to make an web page you sould do wireframe that something donig by ***Ux*** or ***UI*** then add the html tags ...
 2. ## wireframe:
 low fidelity sketch of a digital interface that can help to imagine or plannig the wibsite with images or logo or login button, you can do the wireframe in sheet of paper or online (digital) by  tools.
