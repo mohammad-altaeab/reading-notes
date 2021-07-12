@@ -23,7 +23,7 @@
 |5     |[class-05](https://mohammad-altaeab.github.io/reading-notes/Code-201-Reading-Notes.md/class-05.md)         |
 |6     |[class-06](https://mohammad-altaeab.github.io/reading-notes/Code-201-Reading-Notes.md/class-06.md)         | 
 |7     |[class-07](https://mohammad-altaeab.github.io/reading-notes/Code-201-Reading-Notes.md/class-07.md)         |
-|8     |[class-08]()         | 
+|8     |[class-08](https://mohammad-altaeab.github.io/reading-notes/Code-201-Reading-Notes.md/class-08.md)         | 
 |9     |[class-09]()         |
 |10    |[class-10]()         |
 |11    |[class-11]()         |
