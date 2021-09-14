@@ -75,7 +75,7 @@
 |11    |[class-11](https://mohammad-altaeab.github.io/reading-notes/Code-301-Intermediate-Software-Development/class-11.md)         |
 | 12   |[class-12](https://mohammad-altaeab.github.io/reading-notes/Code-301-Intermediate-Software-Development/class-12.md)         |
 |    13|[class-13](https://mohammad-altaeab.github.io/reading-notes/Code-301-Intermediate-Software-Development/class-13.md)         |
-|    14|[class-14a](https://mohammad-altaeab.github.io/reading-notes/Code-301-Intermediate-Software-Development/class-14a.md)       |
-|    15|[class-14b](https://mohammad-altaeab.github.io/reading-notes/Code-301-Intermediate-Software-Development/class-14b.md)       |
+|    14|[class-14](https://mohammad-altaeab.github.io/reading-notes/Code-301-Intermediate-Software-Development/class-14.md)       |
+|    15|[class-15](https://mohammad-altaeab.github.io/reading-notes/Code-301-Intermediate-Software-Development/class-15.md)       |
 
 ![](https://miro.medium.com/max/1400/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg)
